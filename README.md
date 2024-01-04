@@ -1,6 +1,6 @@
 **Customer Feedback Analysis for Personal Finance Software using NLP**
 
-This project utilized NLP techniques to analyze user reviews for a financial management software product, aiming to improve user experience.
+This project utilized NLP techniques to analyze user reviews for a financial management software product scraped from trustpilot's website.
 
 **Key Findings:**
 
