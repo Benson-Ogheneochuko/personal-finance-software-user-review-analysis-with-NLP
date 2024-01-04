@@ -11,7 +11,7 @@ Key Contributions and Achievements:
 Leveraged Python for data cleaning, exploratory data analysis (EDA), and advanced Natural Language Processing.
 Extracted and preprocessed user reviews from trustpilot’s website, spanning April 2022 & December 2023.
 Employed descriptive statistics to understand the dataset, comprising 6620 user feedback entries.
-Identified and categorized major pain points, representing 71% of user dissatisfaction, using NLP-based thematic analysis.
+Identified and categorized major pain points causing user dissatisfaction, using NLP-based thematic analysis.
 
 Techniques Utilized:  
 Data cleaning and feature engineering
